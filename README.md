@@ -71,6 +71,17 @@ O projeto demonstra conceitos fundamentais de parsing, execução de processos, 
 > exit           ← encerra o shell
 
 
+# 📄 Saídas dos comandos
+
+> Volume in drive C has no label.
+Directory of C:\Users\...
+
+> hello world
+
+> Disparando google.com [172.217.29.206] com 32 bytes de dados...
+
+> não é reconhecido como um comando interno ou externo, um programa operável ou um arquivo em lotes.
+
 # Pessoas Desenvolvedoras
 
 
