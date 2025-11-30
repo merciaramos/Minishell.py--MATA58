@@ -4,7 +4,7 @@
 <h1 align="center"> MiniShell em Python </h1>
 
 Um interpretador de comandos simples, escrito em Python, inspirado no comportamento de terminais reais como CMD e PowerShell.
-O projeto demonstra conceitos fundamentais de parsing, execução de processos, tratamento de erros, modularização e loop de REPL (Read–Eval–Print Loop).
+O projeto demonstra conceitos fundamentais de parsing, execução de processos, tratamento de erros, modularização e loop de REPL (Read–Eval–Print Loop). 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=GREEN&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
@@ -69,3 +69,10 @@ O projeto demonstra conceitos fundamentais de parsing, execução de processos, 
 > dffdffd        ← comando inválido
 
 > exit           ← encerra o shell
+
+
+## Pessoas Desenvolvedoras
+
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/60400472?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115239281?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  
+| :---: | :---: |
