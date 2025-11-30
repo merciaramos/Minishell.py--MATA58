@@ -71,7 +71,7 @@ O projeto demonstra conceitos fundamentais de parsing, execução de processos, 
 > exit           ← encerra o shell
 
 
-## Pessoas Desenvolvedoras
+# Pessoas Desenvolvedoras
 
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/60400472?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/52437520?v=4" width=115><br><sub>Renato Marcelo</sub>](https://github.com/jimy189) |  
